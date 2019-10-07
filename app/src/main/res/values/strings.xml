@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Hello World</string>
+    <string name="need_permission_dialog_title">Permission Denied</string>
+    <string name="need_permission_dialog_message">You should get permission</string>
+    <string name="need_permission_dialog_allow">Allow</string>
+    <string name="need_permission_dialog_deny">Deny</string>
+    <string name="need_permission_toast">Permission denied</string>
+    <string name="need_permission_in_settings_toast">Permission denied. Grant permission in settings</string>
+</resources>
